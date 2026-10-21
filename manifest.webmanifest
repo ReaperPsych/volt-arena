@@ -1,0 +1,20 @@
+{
+  "name": "VOLT Arena",
+  "short_name": "VOLT",
+  "description": "An original local 5v5 browser football game. Find the pass. Feel the shot.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#101715",
+  "theme_color": "#101715",
+  "categories": ["games", "sports"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
